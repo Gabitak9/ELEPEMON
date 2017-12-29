@@ -1,4 +1,5 @@
 **[TAREA RAMO UNIVERSIDAD]**
+
 ========================================
 TAREA 1 / LENGUAJES DE PROGRAMACIÓN / 2016-2
 ========================================
@@ -28,7 +29,7 @@ INSTALACIÓN DE ELEPEMON GO
 ------------------
 - Lo primero que debes hacer es clonar el repositorio del proyecto en tu ordenador. Para ello utiliza el siguiente comando en la carpeta donde deseas guardar el juego:
 ```
-git clone git@gitlab.labcomp.cl:gsepulve/tarea1LP-2016-2-gsepulve.git
+git clone https://github.com/Gabitak9/ELEPEMON
 ```
 
 - Para compilar ElepemonGO:
